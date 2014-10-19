@@ -1,3 +1,3 @@
 preexec() {
-    alias | "$ZSH_CUSTOM/plugins/alias-tips/alias-tips" $*
+    alias | "$ZSH_CUSTOM/alias-tips/alias-tips" $*
 }
